@@ -5,7 +5,9 @@ Naman Sharma here from IIT Delhi.I'm currently learning web development and work
 
 Skills: REACT / JS / HTML / CSS 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ben-0728)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/naman-sharma-69852a289/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/namansharma0728/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Potpourri6969)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben-0728&show_icons=true)
 
 
 

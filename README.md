@@ -4,6 +4,7 @@
 Naman Sharma here from IIT Delhi.I'm currently learning web development and working on new projects. Hoping to keep learning more skills that the tech world has to offer.
 
 ## Skills:
+<div>
 <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" height='40'>
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height='40'>
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height='40'>
@@ -15,6 +16,7 @@ Naman Sharma here from IIT Delhi.I'm currently learning web development and work
 <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" height='40'>
 <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height='40'>
 <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" height='40'>
+</div>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ben-0728)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/naman-sharma-69852a289/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/namansharma0728/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Potpourri6969)  
